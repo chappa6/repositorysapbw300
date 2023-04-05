@@ -1,0 +1,9 @@
+{
+	"name": "instancenamesapbw100",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e170b16c-bfa8-4397-b699-8135fbda5b0c",
+		"tenantId": "75c57447-1979-4650-84a1-78813471226e"
+	}
+}
